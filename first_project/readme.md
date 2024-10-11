@@ -1,8 +1,10 @@
 # Markdown for my first_project
+
+
 ## How it'll be in GitHun?  
 ## Or it?
 
-*Let's try to use stars* or __let's use twice underline__  
+*Let's try to use stars* or __let's use twice underline__.  
 I'm working with my son. Sometimes it's really hard.
 ---
 We're going to walk a bit. We have to do:  
@@ -13,7 +15,7 @@ We're going to walk a bit. We have to do:
 
 ---
 
-Let's use 
+Let's use  
 '''pytnon
 print('Hello world!')
 '''
