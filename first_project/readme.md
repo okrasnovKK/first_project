@@ -15,9 +15,10 @@ We're going to walk a bit. We have to do:
 
 ---
 
-Let's use  
-'''pytnon
-print('Hello world!')
+Let's use   
+'''  
+pytnon
+print('Hello world!')  
 '''
 
 ***
